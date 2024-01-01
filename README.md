@@ -13,11 +13,16 @@ The main goal of this notebook is to compare different approaches and techniques
 
 We're going to compare three different approaches, all of which guarantee 100% accuracy in solving Sudoku puzzles:
 1. Backtracking Algorithm
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif)
+
 2. Naked Twin Approach (My implementation 1)
 3. Naked Twin Approach (Online implementation 2)
+   
+![image](https://github.com/MostaAshour/Sudoko-Solver-with-Python/assets/52050851/cd9f5ebb-fed9-4215-95be-2cba9ea79ade)
+![image](https://github.com/MostaAshour/Sudoko-Solver-with-Python/assets/52050851/b7e3f3d0-3191-4686-83bb-e5718bf6dd3e)
 
-Check the notebook for full documentation and code [Here](https://github.com/MostaAshour/Sudoko-Solver-with-Python/blob/main/Sudoku%20solver.ipynb)!
-
+Check the notebook for full documentation and code [Here](https://github.com/MostaAshour/Sudoko-Solver-with-Python/blob/main/Sudoku%20solver.ipynb)!<br>
 Kaggle link: [Here](https://www.kaggle.com/code/mostaashour/sudoku-solver-3-different-approaches-part-1)
 
 **Note: If you find the notebook useful, please give an upvote.** 
@@ -28,5 +33,5 @@ I would be delighted to connect with you! Please feel free to reach out to me vi
 - LinkedIn: [Mosta Ashour](https://www.linkedin.com/in/mosta-ashour/)
 - Email: mostaomg@gmail.com
 
-**For now, take care everyone, and may your journey be filled with success as you pursue your dreams and reach for the stars!** 🙏🌹
+**For now, take care everyone, and may your journey be filled with success as you pursue your dreams and reach for the stars!** 🙏🌹<br>
 **Peace.** 👋
